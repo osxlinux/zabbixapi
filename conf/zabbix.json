@@ -1,0 +1,5 @@
+{
+  "api": "http://192.168.0.101/api_jsonrpc.php",
+  "user": "Admin",
+  "password": "zabbix"
+}
